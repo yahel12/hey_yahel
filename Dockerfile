@@ -11,6 +11,4 @@ COPY . .
 
 EXPOSE 8080
 
-python3 bot.py
-
 CMD ["python", "bot.py"]
